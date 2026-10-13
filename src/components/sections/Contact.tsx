@@ -86,7 +86,7 @@ export default function Contact({ index }: { index: string }) {
               <li>
                 <span className="mono">LinkedIn</span>
                 <a href={PROFILE.linkedin} target="_blank" rel="noopener noreferrer">
-                  ajaykumar-bommali ↗
+                  ajay-kumar-bommali ↗
                 </a>
               </li>
               <li>

@@ -18,7 +18,7 @@ export const PROFILE = {
   phone: "+91 77993 34398",
   phoneHref: "tel:+917799334398",
   location: "Hyderabad, India",
-  linkedin: "https://www.linkedin.com/in/ajaykumar-bommali-055635270/",
+  linkedin: "https://www.linkedin.com/in/ajay-kumar-bommali-055635270/",
   github: null as string | null,
   resume: "/Ajay-Kumar-Bommali-Resume.pdf",
   resumeSummary:
